@@ -15,7 +15,6 @@
 
 ## 贡献资料
 1. Fork本项目，upload你的文件，提交Pull Request
-
 2. 发送邮件至[jbthh22970@foxmail.com](mailto:jbthh22970@foxmail.com)
 
 **欢迎大家积极贡献！！！**
