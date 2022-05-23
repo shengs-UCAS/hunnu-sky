@@ -3,24 +3,49 @@
 ## 课程资源
 根据课程的拼音排序
 - [病毒学](https://github.com/shengs-UCAS/hunnu-sky/tree/main/%E7%97%85%E6%AF%92%E5%AD%A6)
+- [德育与班级管理](https://github.com/shengs-UCAS/hunnu-sky/tree/main/德育与班级管理)
 - [发酵工程](https://github.com/shengs-UCAS/hunnu-sky/tree/main/发酵工程)
 - [发育生物学](https://github.com/shengs-UCAS/hunnu-sky/tree/main/发育生物学)
 - [分子生物学](https://github.com/shengs-UCAS/hunnu-sky/tree/main/分子生物学)
+- [分子生物学（师范类）](https://github.com/shengs-UCAS/hunnu-sky/tree/main/分子生物学（师范类）)
+- [分子生物学实验课](https://github.com/shengs-UCAS/hunnu-sky/tree/main/分子生物学实验课)
 - [基因工程](https://github.com/shengs-UCAS/hunnu-sky/tree/main/基因工程)
+- [教学论](https://github.com/shengs-UCAS/hunnu-sky/tree/main/教学论)
+- [教育技术](https://github.com/shengs-UCAS/hunnu-sky/tree/main/教育技术)
+- [教资](https://github.com/shengs-UCAS/hunnu-sky/tree/main/教资)
+- [近代史](https://github.com/shengs-UCAS/hunnu-sky/tree/main/近代史)
+- [昆虫学](https://github.com/shengs-UCAS/hunnu-sky/tree/main/昆虫学)
 - [毛概](https://github.com/shengs-UCAS/hunnu-sky/tree/main/毛概)
 - [酶工程](https://github.com/shengs-UCAS/hunnu-sky/tree/main/酶工程)
+- [人解](https://github.com/shengs-UCAS/hunnu-sky/tree/main/人解)
 - [人解实验](https://github.com/shengs-UCAS/hunnu-sky/tree/main/人解实验)
+- [生态学](https://github.com/shengs-UCAS/hunnu-sky/tree/main/生态学)
+- [生物技术专题讲座](https://github.com/shengs-UCAS/hunnu-sky/tree/main/生物技术专题讲座)
 - [生物芯片](https://github.com/shengs-UCAS/hunnu-sky/tree/main/生物芯片)
 - [生物信息学实验](https://github.com/shengs-UCAS/hunnu-sky/tree/main/生物信息学实验)
 - [生物制药](https://github.com/shengs-UCAS/hunnu-sky/tree/main/生物制药)
 - [衰老生物学](https://github.com/shengs-UCAS/hunnu-sky/tree/main/衰老生物学)
-- [微生物实验](https://github.com/shengs-UCAS/hunnu-sky/tree/main/微生物实验)
+- [微生物学](https://github.com/shengs-UCAS/hunnu-sky/tree/main/微生物学)
+- [微生物学实验](https://github.com/shengs-UCAS/hunnu-sky/tree/main/微生物实验)
+- [无脊椎动物学](https://github.com/shengs-UCAS/hunnu-sky/tree/main/无脊椎动物学)
 - [细胞生物学](https://github.com/shengs-UCAS/hunnu-sky/tree/main/细胞生物学)
+- [学校教育学](https://github.com/shengs-UCAS/hunnu-sky/tree/main/学校教育学)
+- [遗传学](https://github.com/shengs-UCAS/hunnu-sky/tree/main/遗传学)
+- [有机化学](https://github.com/shengs-UCAS/hunnu-sky/tree/main/有机化学)
 - [鱼类繁殖育种](https://github.com/shengs-UCAS/hunnu-sky/tree/main/鱼类繁殖育种)
+- [原理](https://github.com/shengs-UCAS/hunnu-sky/tree/main/原理)
+- [植物发育学](https://github.com/shengs-UCAS/hunnu-sky/tree/main/植发)
+- [植物生理学](https://github.com/shengs-UCAS/hunnu-sky/tree/main/植物生理学)
+- [植物生理学实验](https://github.com/shengs-UCAS/hunnu-sky/tree/main/植物生理学实验课)
+- [植物学实验](https://github.com/shengs-UCAS/hunnu-sky/tree/main/植物学实验)
+- [种子植物分类学](https://github.com/shengs-UCAS/hunnu-sky/tree/main/种子植物分类学)
 - [转基因动物](https://github.com/shengs-UCAS/hunnu-sky/tree/main/转基因动物)
 
 
 未完待续>>>>>>
+
+5.23 更新了部分师范类课程资料，感谢Q同学的共享！！！
+
 期待扩充！！！
 
 
