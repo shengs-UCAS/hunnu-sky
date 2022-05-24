@@ -46,7 +46,7 @@
 
 为满足个性化的下载需求，开放了
 
-**阿里云盘**[下载链接](https://www.aliyundrive.com/s/2FsTivi2rLs) (全部资料）提取码: 77qs
+**阿里云盘**[下载链接](https://www.aliyundrive.com/s/MBup1fbgmGt) (全部资料)
 
 **百度网盘**[下载链接](https://pan.baidu.com/s/1RA8TDvq43-4tdG6g0xyu0g) （部分生科资料）提取码：2aju
 
