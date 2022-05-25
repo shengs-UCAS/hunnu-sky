@@ -3,6 +3,7 @@
 ## 课程资源
 根据课程的拼音排序
 - [病毒学](https://github.com/shengs-UCAS/hunnu-sky/tree/main/%E7%97%85%E6%AF%92%E5%AD%A6)
+- [蛋白质技术](https://github.com/shengs-UCAS/hunnu-sky/tree/main/蛋白质技术)
 - [德育与班级管理](https://github.com/shengs-UCAS/hunnu-sky/tree/main/德育与班级管理)
 - [发酵工程](https://github.com/shengs-UCAS/hunnu-sky/tree/main/发酵工程)
 - [发育生物学](https://github.com/shengs-UCAS/hunnu-sky/tree/main/发育生物学)
@@ -19,6 +20,7 @@
 - [酶工程](https://github.com/shengs-UCAS/hunnu-sky/tree/main/酶工程)
 - [人解](https://github.com/shengs-UCAS/hunnu-sky/tree/main/人解)
 - [人解实验](https://github.com/shengs-UCAS/hunnu-sky/tree/main/人解实验)
+- [生理学](https://github.com/shengs-UCAS/hunnu-sky/tree/main/生理学)
 - [生态学](https://github.com/shengs-UCAS/hunnu-sky/tree/main/生态学)
 - [生物技术专题讲座](https://github.com/shengs-UCAS/hunnu-sky/tree/main/生物技术专题讲座)
 - [生物芯片](https://github.com/shengs-UCAS/hunnu-sky/tree/main/生物芯片)
@@ -28,9 +30,11 @@
 - [微生物学](https://github.com/shengs-UCAS/hunnu-sky/tree/main/微生物学)
 - [微生物学实验](https://github.com/shengs-UCAS/hunnu-sky/tree/main/微生物实验)
 - [无脊椎动物学](https://github.com/shengs-UCAS/hunnu-sky/tree/main/无脊椎动物学)
+- [细胞工程](https://github.com/shengs-UCAS/hunnu-sky/tree/main/细胞工程)
 - [细胞生物学](https://github.com/shengs-UCAS/hunnu-sky/tree/main/细胞生物学)
 - [学校教育学](https://github.com/shengs-UCAS/hunnu-sky/tree/main/学校教育学)
 - [遗传学](https://github.com/shengs-UCAS/hunnu-sky/tree/main/遗传学)
+- [应用真菌学](https://github.com/shengs-UCAS/hunnu-sky/tree/main/应用真菌学)
 - [有机化学](https://github.com/shengs-UCAS/hunnu-sky/tree/main/有机化学)
 - [鱼类繁殖育种](https://github.com/shengs-UCAS/hunnu-sky/tree/main/鱼类繁殖育种)
 - [原理](https://github.com/shengs-UCAS/hunnu-sky/tree/main/原理)
@@ -42,19 +46,21 @@
 - [转基因动物](https://github.com/shengs-UCAS/hunnu-sky/tree/main/转基因动物)
 
 
-未完待续>>>>>>
+未完待续，持续更新中>>>>>>
 
 为满足个性化的下载需求，开放了
 
-**阿里云盘**[下载链接](https://www.aliyundrive.com/s/MBup1fbgmGt) (全部资料)
+**阿里云盘**[下载链接](https://www.aliyundrive.com/s/MBup1fbgmGt) (全部资料，持续更新)
 
 **百度网盘**[下载链接](https://pan.baidu.com/s/1RA8TDvq43-4tdG6g0xyu0g) （部分生科资料）提取码：2aju
 
 5.23 更新了部分师范类课程资料，感谢**Q同学**的共享！！！
 
-目前仍欠缺大一二等**早期阶段**的学习资料，欢迎贡献！
+5.25 更新了部分课程期末指导-Q
 
-**有任何疑问或想法，欢迎邮件or加入QQ群交流，期待扩充！！！**
+目前仍欠缺大一二等**早期阶段**的学习资料，一个良好的生态，离不开大家的共同努力，欢迎贡献！
+
+**有任何疑问或想法，欢迎[邮件](mailto:jbthh22970@foxmail.com) or[加入QQ群](https://jq.qq.com/?_wv=1027&k=Isflesdo) 交流，期待扩充！！！**
 
 
 ## 前言
@@ -68,7 +74,9 @@
 
 本站初次创立，面临着众多不足，**十分需要更多志同道合的伙伴们加入到贡献者的队伍中，一起努力完善！！！**
 
-为便于不同年级间的在校生和已经毕业的小伙伴能有机会更好地交流学习，答疑解惑~~or划水聊天~~ ，欢迎感兴趣的小伙伴们**加入QQ群**：606327778
+为便于不同年级间的在校生和已经毕业的小伙伴能有机会更好地交流学习，答疑解惑(如期末考试、夏令营等）~~or划水聊天~~ ，欢迎感兴趣的小伙伴们**加入QQ群**：606327778
+
+[点击这里](https://jq.qq.com/?_wv=1027&k=Isflesdo) 快速加群
 
 ![](今天学习了吗群二维码.png)
 
