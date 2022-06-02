@@ -54,7 +54,9 @@
 
 **百度网盘**[下载链接](https://pan.baidu.com/s/1RA8TDvq43-4tdG6g0xyu0g) （部分生科资料）提取码：2aju
 
-**重大更新！！！**  注册了域名，可通过[lifescience.fun](https://lifescience.fun)跳转访问本站。
+**重大更新！！！**  
+
+**6.02** 注册了域名，可通过[lifescience.fun](https://lifescience.fun)跳转访问本站。*
 
 5.25 更新了部分课程期末指导-Q
 
