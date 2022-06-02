@@ -56,7 +56,7 @@
 
 **重要更新！！！**  
 
-**6.02** 新注册了域名，可通过[lifescience.fun](https://lifescience.fun)跳转访问本站。*
+**6.02** 新注册了域名，现可通过网站[lifescience.fun](https://lifescience.fun)跳转访问本站。*
 
 5.25 更新了部分课程期末指导-Q
 
