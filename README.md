@@ -1,5 +1,7 @@
 # 湖南师范大学sky自学指北
 
+## 本站现可通过网址[lifescience.fun](https://lifescience.fun)进行访问
+
 ## 课程资源
 根据课程的拼音排序
 - [病毒学](https://github.com/shengs-UCAS/hunnu-sky/tree/main/%E7%97%85%E6%AF%92%E5%AD%A6)
