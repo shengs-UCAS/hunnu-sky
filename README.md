@@ -1,6 +1,6 @@
 # 湖南师范大学sky自学指北
 
-## 本站现可通过网址[lifescience.fun](https://lifescience.fun)进行访问
+## 欢迎来到[生科范](https://lifescience.fun)！本站现可通过网址lifescience.fun进行访问
 
 ## 课程资源
 根据课程的拼音排序
@@ -56,7 +56,9 @@
 
 **百度网盘**[下载链接](https://pan.baidu.com/s/1RA8TDvq43-4tdG6g0xyu0g) （部分生科资料）提取码：2aju
 
-**重要更新！！！**  
+**更新！！！** 
+
+6.22 更新了网页图标，拟定站名[生科范](https://lifescience.fun)，欢迎访问！
 
 **6.02** 新注册了域名，现可通过网站[lifescience.fun](https://lifescience.fun)跳转访问本站。*
 
