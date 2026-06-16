@@ -1,6 +1,6 @@
 # 湖南师范大学sky自学指北
 
-## 因较长时间无更新内容、域名到期等因素，本项目暂已停止维护
+## 新域名[sky.samsonliu.cn](https://sky.samsonliu.cn)重新上线
 
 ## 课程资源
 根据课程的拼音排序
@@ -57,6 +57,8 @@
 **百度网盘**[下载链接](https://pan.baidu.com/s/1RA8TDvq43-4tdG6g0xyu0g) （部分生科资料）提取码：2aju
 
 **更新！！！** 
+
+26.6.16 新域名[sky.samsonliu.cn](https://sky.samsonliu.cn)重新上线啦！
 
 6.22 更新了网页图标，拟定站名[生科范](https://lifescience.fun)，欢迎访问！
 
