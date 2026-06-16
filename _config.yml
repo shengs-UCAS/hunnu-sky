@@ -4,4 +4,4 @@ small: image/favicon-16x16.png
 medium: image/favicon-32x32.png  
 apple_touch_icon: image/apple-touch-icon.png  
 safari_pinned_tab: image/safari-pinned-tab.svg
-baseurl: /hunnu-sky
+baseurl: sky.samsonliu.cn
