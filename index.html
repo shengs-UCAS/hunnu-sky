@@ -35,6 +35,14 @@
             font-size: 24px;
             font-weight: 300;
         }
+        .page-header-info {
+            margin-top: 15px;
+            font-size: 14px;
+            opacity: 0.95;
+        }
+        .page-header-info a {
+            color: white;
+        }
         .main-content {
             max-width: 1200px;
             margin: 0 auto;
@@ -48,6 +56,10 @@
             border-bottom: 2px solid #1e90ff;
             padding-bottom: 10px;
             margin-top: 30px;
+        }
+        h3 {
+            color: #333;
+            margin-top: 20px;
         }
         ul, ol {
             line-height: 1.8;
@@ -74,12 +86,36 @@
             border-left: 4px solid #ffc107;
             margin: 10px 0;
         }
+        .update-log {
+            background-color: #f0f7ff;
+            padding: 10px;
+            border-left: 4px solid #1e90ff;
+            margin: 10px 0;
+            font-size: 14px;
+        }
+        .update-log p {
+            margin: 5px 0;
+        }
+        footer {
+            text-align: center;
+            color: #999;
+            font-size: 12px;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #ddd;
+        }
+        footer a {
+            color: #1e90ff;
+        }
     </style>
 </head>
 <body>
     <header class="page-header" role="banner">
         <h1 class="project-name">湖南师范大学sky自学指北</h1>
         <h2 class="project-tagline">永远满怀期待！</h2>
+        <div class="page-header-info">
+            <p>GitHub: <a href="https://github.com/shengs-UCAS/hunnu-sky">shengs-UCAS/hunnu-sky</a></p>
+        </div>
     </header>
 
     <main id="content" class="main-content" role="main">
@@ -131,17 +167,20 @@
             <li><a href="https://github.com/shengs-UCAS/hunnu-sky/tree/main/转基因动物">转基因动物</a></li>
         </ul>
 
-        <p><strong>未完待续，持续更新中»»»</strong></p>
+        <p><strong>未完待续，持续更新中>>>>>>></strong></p>
 
-        <p>为满足个性化的下载需求，开放了</p>
+        <h3>资料下载方式</h3>
+        <p>为满足个性化的下载需求，开放了网盘下载渠道：</p>
+        <ul>
+            <li><strong>阿里云盘</strong> <a href="https://www.aliyundrive.com/s/MBup1fbgmGt">下载链接</a> (全部资料，持续更新)</li>
+            <li><strong>百度网盘</strong> <a href="https://pan.baidu.com/s/1RA8TDvq43-4tdG6g0xyu0g">下载链接</a> （部分生科资料）提取码：2aju</li>
+        </ul>
 
-        <p><strong>阿里云盘</strong> <a href="https://www.aliyundrive.com/s/MBup1fbgmGt">下载链接</a> (全部资料，持续更新)</p>
-
-        <p><strong>百度网盘</strong> <a href="https://pan.baidu.com/s/1RA8TDvq43-4tdG6g0xyu0g">下载链接</a> （部分生科资料）提取码：2aju</p>
-
-        <p>5.23 更新了部分师范类课程资料，感谢<strong>Q同学</strong>的共享！！！</p>
-
-        <p>5.25 更新了部分课程期末指导-Q</p>
+        <h3>更新日志</h3>
+        <div class="update-log">
+            <p>📅 <strong>5.25</strong> 更新了部分课程期末指导-Q</p>
+            <p>📅 <strong>5.23</strong> 更新了部分师范类课程资料，感谢<strong>Q同学</strong>的共享！！！</p>
+        </div>
 
         <p>目前仍欠缺大一二等<strong>早期阶段</strong>的学习资料，一个良好的生态，离不开大家的共同努力，欢迎贡献！</p>
 
@@ -154,20 +193,21 @@
         <h2 id="介绍">介绍</h2>
         <p>收录了一些课程课件，学习笔记与心得</p>
         <p>本站初次创立，面临着众多不足，<strong>十分需要更多志同道合的伙伴们加入到贡献者的队伍中，一起努力完善！！！</strong></p>
-        <p>为便于不同年级间的在校生和已经毕业的小伙伴能有机会更好地交流学习，答疑解惑(如期末考试、夏令营等），欢迎感兴趣的小伙伴<a href="https://jq.qq.com/?_wv=1027&k=Isflesdo">点击这里</a> 快速入群</p>
+        <p>为便于不同年级间的在校生和已经毕业的小伙伴能有机会更好地交流学习，答疑解惑(如期末考试、夏令营等），欢迎感兴趣的小伙伴<a href="https://jq.qq.com/?_wv=1027&k=Isflesdo">加入我们的QQ群</a>。</p>
 
-        <h2 id="下载">下载</h2>
+        <h2 id="下载">下载方式</h2>
         <ol>
-            <li>(单个下载)在课程资源的各学科主页下点击单个文件,Download</li>
-            <li>(部分下载)复制想下载部分的文件夹网址，进入 <a href="https://minhaskamal.github.io/DownGit/#/home">DownGit</a> 或者 <a href="http://tool.mkblog.cn/downgit/#/home">国内镜像网站</a> 粘贴下载</li>
-            <li>(全部下载)Code->Download ZIP</li>
-            <li>更新了网盘链接</li>
+            <li><strong>单个下载：</strong>在课程资源的各学科主页下点击单个文件，Download</li>
+            <li><strong>部分下载：</strong>复制想下载部分的文件夹网址，进入 <a href="https://minhaskamal.github.io/DownGit/#/home">DownGit</a> 或者 <a href="http://tool.mkblog.cn/downgit/#/home">国内镜像网站</a>粘贴下载</li>
+            <li><strong>全部下载：</strong>Code->Download ZIP</li>
+            <li><strong>网盘下载：</strong>使用上方提供的阿里云盘或百度网盘链接</li>
         </ol>
 
         <h2 id="贡献资料">贡献资料</h2>
+        <p>欢迎通过以下方式贡献资料：</p>
         <ol>
             <li>Fork本项目，upload你的文件，提交Pull Request</li>
-            <li>加群联系</li>
+            <li>加群联系维护人员</li>
         </ol>
         <p>有<strong>任何问题或想法</strong>也随时可以发邮件交流，<strong>欢迎大家积极贡献！！！</strong></p>
 
@@ -181,6 +221,10 @@
         <p>毕业后，因为研究方向的需求，自己有幸遇到了一个更加<strong>多元、包容、开放</strong>的学习环境，接触到了自由软件运动，也因此受到开源精神的影响。</p>
         <p>本站创立之初是为了让我们能够更加高效地在课程上达到自己的需求，然后有更多机会探索其他的事，而不是仅仅是埋头背书。</p>
         <p>希望以后回顾起sky的四年生活，不只有繁忙的课程，而是庆幸自己<strong>从事了真正感兴趣和有意义的事情</strong>。</p>
+
+        <footer>
+            <p>GitHub Pages | <a href="https://github.com/shengs-UCAS/hunnu-sky">Repository</a></p>
+        </footer>
 
     </main>
 
